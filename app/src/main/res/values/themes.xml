@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.RainbowDrum" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/background</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="Theme.RainbowDrum" parent="Base.Theme.RainbowDrum">
+        <item name="android:windowBackground">@color/background</item>/>
+    </style>
+
+</resources>

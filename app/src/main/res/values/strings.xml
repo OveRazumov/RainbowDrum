@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Rainbow Drum</string>
+    <string name="reset">Long click to reset</string>
+</resources>
